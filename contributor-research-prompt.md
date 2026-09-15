@@ -74,7 +74,7 @@ A=\lceil \varepsilon p^2\rceil.
 
 Lower scores are stronger.
 
-**Live build snapshot.** The current verified record is **7,349,490,435**. A leaderboard submission must prove a score at most **7,349,490,434**.
+**Live build snapshot.** The current verified record is **7,249,403,428**. A leaderboard submission must prove a score at most **7,249,403,427**.
 
 Before claiming an improvement, inspect the current record in
 `dashboard/public/research-data.json` or on the public observatory. A leaderboard score must be
